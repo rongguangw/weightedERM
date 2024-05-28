@@ -4,7 +4,7 @@
   <img src="./assets/framework.png" width="800">
 </p>
 
-This is a PyTorch implementation of the [Weighted-ERM paper](https://arxiv.org/abs/2308.03175):
+This is a Python implementation of the [Weighted-ERM paper](https://arxiv.org/abs/2308.03175):
 ```
 @article{wang2023adapting,
   title={Adapting Machine Learning Diagnostic Models to New Populations Using a Small Amount of Data: Results from Clinical Neuroscience},
